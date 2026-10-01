@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/MikaelWeiss/strive-cli/releases/download/v0.1.0/strive_0.1.0_windows_amd64.zip",
+            "bin": [
+                "strive.exe"
+            ],
+            "hash": "56e37572458860b692d6d9e4eb9d3d52df5cd973f1ba4d82917decbb1cfbe007"
+        },
+        "arm64": {
+            "url": "https://github.com/MikaelWeiss/strive-cli/releases/download/v0.1.0/strive_0.1.0_windows_arm64.zip",
+            "bin": [
+                "strive.exe"
+            ],
+            "hash": "43205c489f5f1304cb6ed252d8a838ab9ccd7b55d4b5fe9649da5fa9b56f94e2"
+        }
+    },
+    "homepage": "https://striveplanner.app",
+    "license": "Proprietary",
+    "description": "Strive planner from the command line"
+}
